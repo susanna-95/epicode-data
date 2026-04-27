@@ -33,7 +33,7 @@ Il report include:
 
 ## 🛠️ Strumenti utilizzati
 
-- Excel  
+- Excel
 - Google Data Studio  
 
 ---
